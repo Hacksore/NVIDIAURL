@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+	<h3>A demonstration of how to access a NVIDIA Server</h3>
+
+	<input type="text" id="myText" value="">
+
+	<p>insert url to open</p>
+
+	<button onclick="urlhttps()">Open it, as a https://</button>
+	<button onclick="rawurl()">Open it, as a custom</button>
+
+	<p id="demo"></p>
+
+	<script>
+	function urlhttps() {
+	    var x = document.getElementById("myText").value;
+	    window.open("https://"+ x + "","_self")
+	}
+		function rawurl() {
+	    var x = document.getElementById("myText").value;
+	    window.open(x,"_self")
+	}
+	</script>
+
+</body>
+</html>
