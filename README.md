@@ -14,7 +14,7 @@ Restricted programs, which will crash NVIDIA GeForce now, with reporter key: 0x8
       - This script injection vuln. leaded me to starting cmd and other exe programs from anywhere.
 
 ## Error codes
-There are bunch of error codes, which appear, when NVIDIA GeForceNow was either crashed, or you were kicked out of your session.
-- 0x80030015
+There are bunch of reporter keys, which appear, when NVIDIA GeForceNow was either crashed, or you were kicked out of your session.
+- 0x80030015 \
       - This reportey key, comes up, when after the program detected that a program from the restricted list was started.
         You can see the restricted list above.
