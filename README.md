@@ -18,3 +18,14 @@ There are bunch of reporter keys, which appear, when NVIDIA GeForceNow was eithe
 - 0x80030015 \
       - This reportey key, comes up, when after the program detected that a program from the restricted list was started.
         You can see the restricted list above.
+
+
+
+
+
+
+
+
+
+# To contribrutors
+If you know any other reporter keys, just make a pull request and throw them into the Error codes section
