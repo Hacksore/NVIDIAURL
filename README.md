@@ -1,4 +1,4 @@
-# GeForceNow Exploitation
+# GeForceNow Exploitation - a little writeup 
 
 
 
