@@ -1,7 +1,9 @@
 # GeForceNow Exploitation - a little writeup 
 
 
-
+## Code generation algorithm
+theres a algorithm the code, for the beta tester phase gets gernerated in. i will link it here, as soon as i write a little writeup.
+untile then you can use https://www.joseph.sh/geforce/
 ## disclaimer
 all of this was tested in NVIDIA GEForce Now Version 1.8.2.17/po (EU Central).
 I will only release the cmd.exe and admin exploit, its an LPE btw, if NVIDIA Doesn't contact me with any of their technicans, or securty officers,´, or something like that. No, I won't fill a normal form to report this as a bug.
