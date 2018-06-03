@@ -10,7 +10,7 @@ Restricted programs, which will crash NVIDIA GeForce now, with reporter key: 0x8
 - explorer.exe
 - netsh lan/wlan
 ## Vulnerabilities
-- Script injection and malicious program running by iSn0w 
+- Script injection and malicious program running by iSn0w \
             - This script injection vuln. leaded me to starting cmd and other exe programs from anywhere.
 
 ## Error codes
