@@ -9,3 +9,8 @@ I will only release the cmd.exe and admin exploit, its an LPE btw, if NVIDIA Doe
 Restricted programs, which will crash NVIDIA GeForce now, with reporter key: 0x80030015
 - explorer.exe
 - netsh lan/wlan
+## Error codes
+There are bunch of error codes, which appear, when NVIDIA GeForceNow was either crashed, or you were kicked out of your session.
+- 0x80030015
+      - This reportey key, comes up, when after the program detected that a program from the restricted list was started.
+        You can see the restricted list above.
