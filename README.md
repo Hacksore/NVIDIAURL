@@ -11,7 +11,7 @@ Restricted programs, which will crash NVIDIA GeForce now, with reporter key: 0x8
 - netsh lan/wlan
 ## Vulnerabilities
 - Script injection and malicious program running by iSn0w \
-            - This script injection vuln. leaded me to starting cmd and other exe programs from anywhere.
+      - This script injection vuln. leaded me to starting cmd and other exe programs from anywhere.
 
 ## Error codes
 There are bunch of error codes, which appear, when NVIDIA GeForceNow was either crashed, or you were kicked out of your session.
