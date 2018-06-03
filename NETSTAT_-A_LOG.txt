@@ -1,0 +1,118 @@
+C:\>netstat -a
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:445            BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:3389           BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:5985           BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:5986           BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:27036          BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:47001          BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:47984          BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:47989          BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:47995          BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:48010          BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:49152          BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:49153          BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:49154          BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:49155          BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:49160          BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:49161          BaseGameSeat-GRID:0    LISTENING
+  TCP    0.0.0.0:49162          BaseGameSeat-GRID:0    LISTENING
+  TCP    10.0.1.22:3000         BaseGameSeat-GRID:0    LISTENING
+  TCP    10.0.1.22:3000         10.0.0.22:55031        TIME_WAIT
+  TCP    10.0.1.22:3000         10.0.0.22:55487        TIME_WAIT
+  TCP    10.0.1.22:3000         10.0.0.23:55351        TIME_WAIT
+  TCP    10.0.1.22:3000         10.0.0.23:55921        TIME_WAIT
+  TCP    10.0.1.22:3000         10.0.0.24:54888        TIME_WAIT
+  TCP    10.0.1.22:3000         10.0.0.24:55318        TIME_WAIT
+  TCP    10.0.1.22:47995        10.0.0.13:65209        ESTABLISHED
+  TCP    10.0.1.22:49232        ams15s30-in-f142:http  TIME_WAIT
+  TCP    10.0.1.22:49238        93.184.220.29:http     TIME_WAIT
+  TCP    10.0.1.22:49239        a23-37-43-27:http      TIME_WAIT
+  TCP    10.0.1.22:49240        ams15s30-in-f142:http  TIME_WAIT
+  TCP    10.0.1.22:49250        93.184.220.29:http     TIME_WAIT
+  TCP    10.0.1.22:49252        a104-108-53-207:https  ESTABLISHED
+  TCP    10.0.1.22:49254        a72-247-178-98:https   ESTABLISHED
+  TCP    10.0.1.22:49255        a72-247-178-98:https   ESTABLISHED
+  TCP    10.0.1.22:49256        a72-247-178-98:https   ESTABLISHED
+  TCP    10.0.1.22:49257        a72-247-178-98:https   ESTABLISHED
+  TCP    10.0.1.22:49258        a72-247-178-98:https   ESTABLISHED
+  TCP    10.0.1.22:49259        a72-247-178-98:https   ESTABLISHED
+  TCP    10.0.1.22:49261        a72-247-178-73:https   ESTABLISHED
+  TCP    10.0.1.22:49263        a72-247-178-73:https   ESTABLISHED
+  TCP    10.0.1.22:49264        a72-247-178-73:https   ESTABLISHED
+  TCP    10.0.1.22:49265        a72-247-178-73:https   ESTABLISHED
+  TCP    10.0.1.22:49266        a72-247-178-98:https   ESTABLISHED
+  TCP    10.0.1.22:49267        a72-247-178-98:https   ESTABLISHED
+  TCP    10.0.1.22:49268        a72-247-178-98:https   ESTABLISHED
+  TCP    10.0.1.22:49270        10.0.16.9:microsoft-ds  ESTABLISHED
+  TCP    10.0.1.22:49271        10.0.16.9:microsoft-ds  ESTABLISHED
+  TCP    10.0.1.22:49273        a72-247-178-73:https   ESTABLISHED
+  TCP    10.0.1.22:49325        a104-108-53-207:https  ESTABLISHED
+  TCP    10.0.1.22:49327        a72-247-178-113:https  ESTABLISHED
+  TCP    10.0.1.22:49328        a72-247-178-113:https  ESTABLISHED
+  TCP    10.0.1.22:49329        a72-247-178-113:https  ESTABLISHED
+  TCP    10.0.1.22:49330        a72-247-178-113:https  ESTABLISHED
+  TCP    10.0.1.22:49331        a72-247-178-113:https  ESTABLISHED
+  TCP    10.0.1.22:49332        a72-247-178-113:https  ESTABLISHED
+  TCP    10.0.1.22:49336        a72-247-178-56:https   ESTABLISHED
+  TCP    10.0.1.22:49349        104.244.42.65:https    ESTABLISHED
+  TCP    10.0.1.22:49350        93.184.220.29:http     TIME_WAIT
+  TCP    10.0.1.22:49351        93.184.220.70:https    ESTABLISHED
+  TCP    10.0.1.22:49356        93.184.220.70:https    ESTABLISHED
+  TCP    10.0.1.22:49358        104.244.42.195:https   ESTABLISHED
+  TCP    10.0.1.22:49360        104.244.42.200:https   ESTABLISHED
+  TCP    10.0.1.22:49363        192.229.233.50:https   ESTABLISHED
+  TCP    10.0.1.22:49391        104.244.46.7:https     ESTABLISHED
+  TCP    10.0.1.22:49392        104.244.46.7:https     ESTABLISHED
+  TCP    10.0.1.22:49396        8.36.112.54:https      SYN_SENT
+  TCP    10.0.20.68:49200       10.0.16.10:microsoft-ds  ESTABLISHED
+  TCP    10.0.20.68:49206       10.0.16.9:microsoft-ds  ESTABLISHED
+  TCP    127.0.0.1:27060        BaseGameSeat-GRID:0    LISTENING
+  TCP    127.0.0.1:49167        BaseGameSeat-GRID:49168  ESTABLISHED
+  TCP    127.0.0.1:49168        BaseGameSeat-GRID:49167  ESTABLISHED
+  TCP    127.0.0.1:49169        BaseGameSeat-GRID:49170  ESTABLISHED
+  TCP    127.0.0.1:49170        BaseGameSeat-GRID:49169  ESTABLISHED
+  TCP    127.0.0.1:65000        BaseGameSeat-GRID:0    LISTENING
+  TCP    [::]:135               BaseGameSeat-GRID:0    LISTENING
+  TCP    [::]:445               BaseGameSeat-GRID:0    LISTENING
+  TCP    [::]:3389              BaseGameSeat-GRID:0    LISTENING
+  TCP    [::]:5985              BaseGameSeat-GRID:0    LISTENING
+  TCP    [::]:5986              BaseGameSeat-GRID:0    LISTENING
+  TCP    [::]:47001             BaseGameSeat-GRID:0    LISTENING
+  TCP    [::]:49152             BaseGameSeat-GRID:0    LISTENING
+  TCP    [::]:49153             BaseGameSeat-GRID:0    LISTENING
+  TCP    [::]:49154             BaseGameSeat-GRID:0    LISTENING
+  TCP    [::]:49155             BaseGameSeat-GRID:0    LISTENING
+  TCP    [::]:49160             BaseGameSeat-GRID:0    LISTENING
+  TCP    [::]:49161             BaseGameSeat-GRID:0    LISTENING
+  TCP    [::]:49162             BaseGameSeat-GRID:0    LISTENING
+  UDP    0.0.0.0:500            *:*
+  UDP    0.0.0.0:3389           *:*
+  UDP    0.0.0.0:4500           *:*
+  UDP    0.0.0.0:27036          *:*
+  UDP    0.0.0.0:47998          *:*
+  UDP    0.0.0.0:47999          *:*
+  UDP    0.0.0.0:48000          *:*
+  UDP    0.0.0.0:48002          *:*
+  UDP    0.0.0.0:48010          *:*
+  UDP    0.0.0.0:52789          *:*
+  UDP    0.0.0.0:52790          *:*
+  UDP    0.0.0.0:54506          *:*
+  UDP    0.0.0.0:55171          *:*
+  UDP    0.0.0.0:64199          *:*
+  UDP    127.0.0.1:55166        *:*
+  UDP    127.0.0.1:55167        *:*
+  UDP    127.0.0.1:55168        *:*
+  UDP    127.0.0.1:55169        *:*
+  UDP    127.0.0.1:55170        *:*
+  UDP    127.0.0.1:55172        *:*
+  UDP    127.0.0.1:65000        *:*
+  UDP    [::]:500               *:*
+  UDP    [::]:3389              *:*
+  UDP    [::]:4500              *:*
+
+C:\>
